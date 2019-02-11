@@ -21,6 +21,7 @@ public class Prueba {
         System.out.println("prueba gabriel desde netbeans");
         System.out.println("prueba gabriel desde pagina");
         System.out.println("prueba gabriel desde pagina 2");
+        System.out.println("prueba erick 10:35");
     }
     
 }
